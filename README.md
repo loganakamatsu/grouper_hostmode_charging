@@ -8,3 +8,6 @@ There is a pre-built copy of the kernel with the patch applied on 6ff7a516ea0284
 
 Grouper source: https://android.googlesource.com/device/asus/grouper/
 
+###NOTE
+
+One caveat to notice is that, like the kernel this was ported from, you must plug the usb cord into the tablet **last**. That is, if you plug the usb cord into the tablet and then the wall or splitter, it will not work until you plug-and-unplug at the tablet.
